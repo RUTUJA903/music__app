@@ -1,0 +1,164 @@
+{
+  "songs": [
+    {
+      "id": "s1",
+      "title": "Midnight Bloom",
+      "artist": "Luna Vale",
+      "album": "Afterglow",
+      "genre": "Indie Pop",
+      "duration": 228,
+      "colors": ["#A855F7", "#6366F1"],
+      "plays": "2.4M"
+    },
+    {
+      "id": "s2",
+      "title": "Neon Horizon",
+      "artist": "The Midnight Arcade",
+      "album": "Chrome Dreams",
+      "genre": "Synthwave",
+      "duration": 254,
+      "colors": ["#22D3EE", "#8B5CF6"],
+      "plays": "1.8M"
+    },
+    {
+      "id": "s3",
+      "title": "Velvet Skies",
+      "artist": "Amara June",
+      "album": "Soft Focus",
+      "genre": "R&B",
+      "duration": 201,
+      "colors": ["#F472B6", "#A855F7"],
+      "plays": "3.1M"
+    },
+    {
+      "id": "s4",
+      "title": "Static Hearts",
+      "artist": "Paper Cities",
+      "album": "Signal / Noise",
+      "genre": "Alternative",
+      "duration": 236,
+      "colors": ["#38BDF8", "#2563EB"],
+      "plays": "980K"
+    },
+    {
+      "id": "s5",
+      "title": "Golden Hour Drive",
+      "artist": "Sora Fields",
+      "album": "Sunroom",
+      "genre": "Lo-Fi",
+      "duration": 189,
+      "colors": ["#FBBF24", "#F97316"],
+      "plays": "4.6M"
+    },
+    {
+      "id": "s6",
+      "title": "Gravityless",
+      "artist": "Nova Kline",
+      "album": "Orbit",
+      "genre": "Electronic",
+      "duration": 272,
+      "colors": ["#818CF8", "#22D3EE"],
+      "plays": "1.2M"
+    },
+    {
+      "id": "s7",
+      "title": "Cassette Summer",
+      "artist": "The Palm Lines",
+      "album": "Side B",
+      "genre": "Indie Pop",
+      "duration": 214,
+      "colors": ["#FB7185", "#F59E0B"],
+      "plays": "760K"
+    },
+    {
+      "id": "s8",
+      "title": "Deep Blue Room",
+      "artist": "Elias Thorn",
+      "album": "Nocturne",
+      "genre": "Jazz",
+      "duration": 298,
+      "colors": ["#0EA5E9", "#1E3A8A"],
+      "plays": "542K"
+    },
+    {
+      "id": "s9",
+      "title": "Electric Bloom",
+      "artist": "Kira Sol",
+      "album": "Wild Circuit",
+      "genre": "Electronic",
+      "duration": 243,
+      "colors": ["#C084FC", "#F472B6"],
+      "plays": "2.9M"
+    },
+    {
+      "id": "s10",
+      "title": "Slow Motion Cinema",
+      "artist": "Milo Rivers",
+      "album": "Frames",
+      "genre": "Lo-Fi",
+      "duration": 176,
+      "colors": ["#94A3B8", "#6366F1"],
+      "plays": "1.5M"
+    },
+    {
+      "id": "s11",
+      "title": "Wildfire",
+      "artist": "Ava Sterling",
+      "album": "Ember",
+      "genre": "Pop",
+      "duration": 207,
+      "colors": ["#EF4444", "#F59E0B"],
+      "plays": "5.3M"
+    },
+    {
+      "id": "s12",
+      "title": "Silver Lining",
+      "artist": "Coastal Eyes",
+      "album": "Open Water",
+      "genre": "Alternative",
+      "duration": 262,
+      "colors": ["#2DD4BF", "#0EA5E9"],
+      "plays": "894K"
+    },
+    {
+      "id": "s13",
+      "title": "After Hours",
+      "artist": "Luna Vale",
+      "album": "Afterglow",
+      "genre": "R&B",
+      "duration": 221,
+      "colors": ["#7C3AED", "#DB2777"],
+      "plays": "2.1M"
+    },
+    {
+      "id": "s14",
+      "title": "Pixel Rain",
+      "artist": "The Midnight Arcade",
+      "album": "Chrome Dreams",
+      "genre": "Synthwave",
+      "duration": 247,
+      "colors": ["#06B6D4", "#4338CA"],
+      "plays": "1.1M"
+    },
+    {
+      "id": "s15",
+      "title": "Quiet Orbit",
+      "artist": "Sora Fields",
+      "album": "Sunroom",
+      "genre": "Ambient",
+      "duration": 312,
+      "colors": ["#64748B", "#8B5CF6"],
+      "plays": "618K"
+    },
+    {
+      "id": "s16",
+      "title": "Sugar Rush",
+      "artist": "Kira Sol",
+      "album": "Wild Circuit",
+      "genre": "Pop",
+      "duration": 195,
+      "colors": ["#F472B6", "#FBBF24"],
+      "plays": "3.7M"
+    }
+  ]
+}
